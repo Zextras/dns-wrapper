@@ -127,4 +127,12 @@
       </build>
     </profile>
   </profiles>
+
+  <distributionManagement>
+    <repository>
+      <id>artifactory</id>
+      <name>Zextras releases</name>
+      <url>https://zextras.jfrog.io/artifactory/public-maven-repo</url>
+    </repository>
+  </distributionManagement>
 </project>
