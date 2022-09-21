@@ -6,7 +6,7 @@
 
   <groupId>io.github.mzanella</groupId>
   <artifactId>dns-wrapper</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
 
   <name>DNS wrapper</name>
   <description>Java utility to resolve different server name using different rules and DNS servers</description>
